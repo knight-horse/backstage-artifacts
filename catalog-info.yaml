@@ -12,5 +12,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: knight-horse
+  owner: knighthorsedevteam
   system: identity-system
