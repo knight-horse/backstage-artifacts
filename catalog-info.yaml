@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rbac-service
+  title: RBAC Service
+  description: Centralized authorization and permission service
+  tags:
+    - rbac
+    - authz
+  annotations:
+    github.com/project-slug: company/rbac-service
+spec:
+  type: service
+  lifecycle: production
+  owner: knight-horse
+  system: identity-system
