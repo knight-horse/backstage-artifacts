@@ -13,5 +13,5 @@ spec:
   type: service
   lifecycle: production
   # owner: knighthorsedevteam
-  owner: backstage-artifacts
+  owner: x-backstage-artifacts
   system: identity-system
